@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.jjjlyn.commmmicecrushmvvmsetup.services
 
+import com.github.jjjlyn.commmmicecrushmvvmsetup.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
